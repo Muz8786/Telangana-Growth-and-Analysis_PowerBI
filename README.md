@@ -3,7 +3,13 @@
 
 ## Overview
 
-This project analyzes Telangana’s major revenue-generating sectors, including TS-Ipass, TS-Transportation, and TS-Tourism. Using Power BI, the project identifies growth patterns, visualizes key insights, and highlights areas for potential expansion.
+This project analyzes Telangana State(TS) major revenue-generating sectors Such as:
+
+TS-Ipass 
+TS-Transportation 
+TS-Tourism
+
+Using Power BI, the project identifies growth patterns, visualizes key insights, and highlights areas for potential expansion.
 
 ## Features 🚀
 
