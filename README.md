@@ -28,8 +28,11 @@ Using Power BI, the project identifies growth patterns, visualizes key insights,
 
 ### Tools: Power BI, SQL, Excel
 
-### Data Processing: Data Cleaning, Transformation, and Aggregation
+### Data Processing: 
+Data Cleaning, Transformation, and Aggregation
 
-### Visualization: Interactive Charts, Heatmaps, and Trend Analysis
+### Visualization: 
+Interactive Charts, Heatmaps, and Trend Analysis
 
-### Reporting: Automated Reports & Insights Generation
+### Reporting: 
+Automated Reports & Insights Generation
