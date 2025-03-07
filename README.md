@@ -33,7 +33,7 @@ Power BI, SQL, Excel
 Data Cleaning, Transformation, and Aggregation
 
 ### Visualization: 
-Interactive Charts, Heatmaps, Trend Analysis and possible Growth Forecating.
+Interactive Charts, Graphs , Trend Analysis and possible Growth Forecating.
 
 ### Reporting: 
 Automated Reports & Insights Generation
