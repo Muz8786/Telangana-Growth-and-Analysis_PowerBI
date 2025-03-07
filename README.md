@@ -26,7 +26,8 @@ Using Power BI, the project identifies growth patterns, visualizes key insights,
 
 ## Tech Stack 🛠️
 
-### Tools: Power BI, SQL, Excel
+### Tools:
+Power BI, SQL, Excel
 
 ### Data Processing: 
 Data Cleaning, Transformation, and Aggregation
