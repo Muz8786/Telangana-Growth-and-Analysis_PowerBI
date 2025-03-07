@@ -16,9 +16,13 @@ Using Power BI, the project identifies growth patterns, visualizes key insights,
 ## Features 🚀
 
 ✅ Data Collection from government sources 
+
 ✅ Data Cleaning & Preprocessing for accuracy 🔍
+
 ✅ Exploratory Data Analysis (EDA) with statistical insights 📊
+
 ✅ Interactive Visualizations using Power BI & Python 📉
+
 
 ## Tech Stack 🛠️
 
